@@ -1,4 +1,4 @@
 print("Addition")
-a=1
+a=7
 b=2
 print (a+b)
